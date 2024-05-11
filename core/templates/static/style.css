@@ -1,0 +1,26 @@
+.page__body {
+    margin-top: 200px;
+}
+
+.logo-security {
+    margin-bottom: 30px;
+}
+
+.main-footer {
+    margin-top: 100px;
+}
+
+.contacts__title, 
+.copyright__text {
+    color: cornflowerblue;
+    font-weight: 400;
+}
+
+.form-control__width {
+    margin-left: 175%;
+}
+
+.vstack__color {
+    background-color: cornflowerblue;
+    color: cornflowerblue;
+}
